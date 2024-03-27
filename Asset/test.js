@@ -296,7 +296,7 @@ const PriceList = () => {
                       borderRadius: 10,
                     }}>
                     <View style={{flex: 1, alignItems: 'center'}}>
-                      <Text style={styles.itemcolor}>Brack First</Text>
+                      <Text style={styles.itemcolor}>Breakfast</Text>
                       <Text style={{color: 'black'}}>
                         {item.brackFirst_price}
                       </Text>
